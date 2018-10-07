@@ -23,18 +23,17 @@ http://doc.sagemath.org/html/en/reference/interfaces/sage/interfaces/polymake.ht
 optimization, discrete geometry, physics, symbolic dynamics, homology theory.
 
  * `Vincent Delecroix (LaBRI - Bordeaux) <http://www.labri.fr/perso/vdelecro/>`_
- * [[http://warwick.ac.uk/mmasdeu/|Marc Masdeu (U. Warwick)]]
- * [[http://page.mi.fu-berlin.de/labbe/|Jean-Philippe Labbé (Freie Universität Berlin)]]
- * [[https://www.math.ucdavis.edu/~mkoeppe/|Matthias Köppe (UC Davis)]]
- * [[https://page.mi.fu-berlin.de/moritz/|Moritz Firsching (Freie Universität Berlin)]]
- * [[https://mat.upc.edu/en/people/julian.pfeifle/|Julian Pfeifle (U. Politècnica de Catalunya)]]
- * [[http://marcelo-forets.fr/|Marcelo Forets (VERIMAG - U. Grenoble)]]
- * [[http://www.normalesup.org/~page/|Aurel Page (U. Warwick)]]
- * [[http://www.mathematik.tu-darmstadt.de/~paffenholz/|Andreas Paffenholz (Technische U. Darmstadt)]]
+ * `Marc Masdeu (U. Warwick) <http://warwick.ac.uk/mmasdeu/>`_
+ * `Jean-Philippe Labbé (Freie Universität Berlin) <http://page.mi.fu-berlin.de/labbe/>`_
+ * `Matthias Köppe (UC Davis) <https://www.math.ucdavis.edu/~mkoeppe/>`_
+ * `Moritz Firsching (Freie Universität Berlin) <https://page.mi.fu-berlin.de/moritz/>`_
+ * `Julian Pfeifle (U. Politècnica de Catalunya) <https://mat.upc.edu/en/people/julian.pfeifle/>`_
+ * `Marcelo Forets (VERIMAG - U. Grenoble) <http://marcelo-forets.fr/>`_
+ * `Aurel Page (U. Warwick) <http://www.normalesup.org/~page/>`_
+ * `Andreas Paffenholz (Technische U. Darmstadt) <http://www.mathematik.tu-darmstadt.de/~paffenholz/>`_
  * Vincent Klein (Bordeaux)
  * Thierry Monteil (CNRS, Univ. Paris North)
- * [[http://users.minet.uni-jena.de/~king/eindex.html|Simon King (FSU Jena)]]
-
+ * `Simon King (FSU Jena) <http://users.minet.uni-jena.de/~king/eindex.html>`_
 
 SageMath Coding Sprints
 ------------------------------
