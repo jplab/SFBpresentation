@@ -2,6 +2,17 @@
 Polytopes and realizations with Sage and SCIP
 ===================================================================================
 
+Acknowledgements of Support
+================================
+
+ * SFB 109 (Funding A03)
+ * `OpenDream Kit <https://opendreamkit.org/tag/sagemath>`_ (Funding programmers and workshops)
+ * `Institute for Mathematics and its Applications (USA) <https://www.ima.umn.edu/>`_ (Funding workshops)
+ * `Mathematiches Forschungsinstitut Oberwolfach <https://www.mfo.de/>`_ (Funding Research in Pairs)
+
+They support research in polyhedral geometry and optimization by helping to build 
+bridges between a variety of specialized mathematical computer softwares.
+
 Previous Workshops
 ====================
 
@@ -46,13 +57,23 @@ August 2017 and March 2018 (IMA, Minneapolis, USA)
 
 https://www.ima.umn.edu/2017-2018.2
 
-**Key aspect**: (fast!) algebraic polytopes using Normaliz, SCIP backend to MILP, Polymake
+**Key aspect**: toward a (fast!) algebraic polytopes using Normaliz, SCIP backend to MILP, Polymake
 
  * `Moritz Firsching <https://page.mi.fu-berlin.de/moritz/>`_
  * `Jean-Philippe Labbé <http://page.mi.fu-berlin.de/labbe/>`_
  * `Matthias Köppe <https://www.math.ucdavis.edu/~mkoeppe/>`_
  * `Sebastian Gutsche <https://sebasguts.github.io/>`_
  * `Winfried Bruns <http://www.home.uni-osnabrueck.de/wbruns/>`_
+
+Encuentro Colombiano de Combinatoria ECCO 2018
+---------------------------------------------------
+
+June 2018 (Barranquilla, Colombia)
+
+ * `Viviane Pons <https://www.lri.fr/~pons/en/>`_
+
+Learn about polyhedral geometry using Sage, following a course 
+given by Günter M. Ziegler (A03).
 
 Upcoming 2019:
 --------------------
@@ -61,6 +82,7 @@ Oberwolfach RiP (April-May 2019)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
  * More interface of normaliz and polymake in sage
+ * release of fast qnormaliz/e-antic computations inside sage 
  * Improvement of the internals
  * YOUR WISH!
 
