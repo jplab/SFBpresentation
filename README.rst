@@ -8,10 +8,14 @@ Previous Workshops
 Sage Days 79
 ---------------
 
+November 2016 (Hebrew University Jerusalem)
+
 https://wiki.sagemath.org/days79
 
 Sage Days 84
 --------------------
+
+February 2017 (Olot, Spain)
 
 https://wiki.sagemath.org/days84
 
@@ -38,9 +42,11 @@ optimization, discrete geometry, physics, symbolic dynamics, homology theory.
 SageMath Coding Sprints
 ------------------------------
 
+August 2017 and March 2018 (IMA, Minneapolis, USA)
+
 https://www.ima.umn.edu/2017-2018.2
 
-**Key aspect**: (fast!) algebraic polytopes using normaliz, scip backend to MILP, polymake
+**Key aspect**: (fast!) algebraic polytopes using Normaliz, SCIP backend to MILP, Polymake
 
  * `Moritz Firsching <https://page.mi.fu-berlin.de/moritz/>`_
  * `Jean-Philippe Labbé <http://page.mi.fu-berlin.de/labbe/>`_
