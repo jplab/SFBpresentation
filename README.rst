@@ -64,6 +64,11 @@ Oberwolfach RiP (April-May 2019)
  * Improvement of the internals
  * YOUR WISH!
 
+Roadmap on Optimization and Polyhedral Geometry in Sage
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+https://wiki.sagemath.org/OptiPolyGeom
+
 Worksheets
 ==============
 
@@ -95,5 +100,3 @@ A polytope tutorial:
 This tutorial is available as an `online tutorial <http://doc.sagemath.org/html/en/thematic_tutorials/geometry/polyhedra_tutorial.html>`_.
 
 There are other tutorials `available here <http://doc.sagemath.org/html/en/thematic_tutorials/geometry.html>`_
-
-
