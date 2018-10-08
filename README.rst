@@ -94,6 +94,14 @@ https://wiki.sagemath.org/OptiPolyGeom
 Worksheets
 ==============
 
+Sage Presentation
+--------------------
+
+Here is a short presentation about Sage
+
+.. image:: https://mybinder.org/badge.svg 
+   :target: https://mybinder.org/v2/gh/jplab/SFBpresentation/master?filepath=Presentation of Sage.ipynb
+
 Demonstration
 -----------------
 
