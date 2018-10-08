@@ -100,7 +100,7 @@ Sage Presentation
 Here is a short presentation about Sage
 
 .. image:: https://mybinder.org/badge.svg 
-   :target: https://mybinder.org/v2/gh/jplab/SFBpresentation/master?filepath=Presentation of Sage.ipynb
+   :target: https://mybinder.org/v2/gh/jplab/SFBpresentation/master?filepath=PresentationofSage.ipynb
 
 Demonstration
 -----------------
