@@ -5,7 +5,7 @@ Polytopes and realizations with Sage and SCIP
 Acknowledgements of Support
 ================================
 
- * SFB 109 (Funding A03)
+ * `SFB 109 (Funding A03) <https://www.discretization.de/en/projects/A03/>`_
  * `OpenDream Kit <https://opendreamkit.org/tag/sagemath>`_ (Funding programmers and workshops)
  * `Institute for Mathematics and its Applications (USA) <https://www.ima.umn.edu/>`_ (Funding workshops)
  * `Mathematiches Forschungsinstitut Oberwolfach <https://www.mfo.de/>`_ (Funding Research in Pairs)
