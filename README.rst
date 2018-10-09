@@ -10,7 +10,7 @@ Acknowledgements of Support
  * `Institute for Mathematics and its Applications (USA) <https://www.ima.umn.edu/>`_ (Funding workshops)
  * `Mathematiches Forschungsinstitut Oberwolfach <https://www.mfo.de/>`_ (Funding Research in Pairs)
 
-They support research in polyhedral geometry and optimization by helping to build 
+They support research in polyhedral geometry and optimization by helping to build
 bridges between a variety of specialized mathematical computer softwares.
 
 Previous Workshops
@@ -34,7 +34,7 @@ Developers of Sage, Latte and Polymake gathered to develop an interface to Polym
 
 http://doc.sagemath.org/html/en/reference/interfaces/sage/interfaces/polymake.html
 
-**Key aspect**: A transdisciplinary team (dynamical systems, algebraic number theory, 
+**Key aspect**: A transdisciplinary team (dynamical systems, algebraic number theory,
 optimization, discrete geometry, physics, symbolic dynamics, homology theory.
 
  * `Vincent Delecroix (LaBRI - Bordeaux) <http://www.labri.fr/perso/vdelecro/>`_
@@ -72,7 +72,7 @@ June 2018 (Barranquilla, Colombia)
 
  * `Viviane Pons <https://www.lri.fr/~pons/en/>`_
 
-Learn about polyhedral geometry using Sage, following a course 
+Learn about polyhedral geometry using Sage, following a course
 given by Günter M. Ziegler (A03).
 
 Upcoming 2019:
@@ -82,7 +82,7 @@ Oberwolfach RiP (April-May 2019)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
  * More interface of normaliz and polymake in sage
- * release of fast qnormaliz/e-antic computations inside sage 
+ * release of fast qnormaliz/e-antic computations inside sage
  * Improvement of the internals
  * YOUR WISH!
 
@@ -99,7 +99,7 @@ Sage Presentation
 
 Here is a short presentation about Sage
 
-.. image:: https://mybinder.org/badge.svg 
+.. image:: https://mybinder.org/badge.svg
    :target: https://mybinder.org/v2/gh/jplab/SFBpresentation/master?filepath=PresentationofSage.ipynb
 
 Demonstration
@@ -107,7 +107,7 @@ Demonstration
 
 Let's see a first step worksheet (thanks to Adrien Boussicault):
 
-.. image:: https://mybinder.org/badge.svg 
+.. image:: https://mybinder.org/badge.svg
    :target: https://mybinder.org/v2/gh/jplab/SFBpresentation/master?filepath=Firststeps.ipynb
 
 
@@ -130,3 +130,19 @@ A polytope tutorial:
 This tutorial is available as an `online tutorial <http://doc.sagemath.org/html/en/thematic_tutorials/geometry/polyhedra_tutorial.html>`_.
 
 There are other tutorials `available here <http://doc.sagemath.org/html/en/thematic_tutorials/geometry.html>`_
+
+
+Polytopal realization with scip
+------------------------------
+
+
+.. image:: https://mybinder.org/badge.svg
+   :target: https://mybinder.org/v2/gh/jplab/SFBpresentation/master?filepath=scip/inscribe%20using%20scip.ipynb
+
+
+Polytopal realization with scip
+------------------------------
+
+
+   .. image:: https://mybinder.org/badge.svg
+      :target: https://mybinder.org/v2/gh/jplab/SFBpresentation/master?filepath=packing%20unfoldings%20of%20the%20cube.ipynb
