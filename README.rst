@@ -140,9 +140,9 @@ Polytopal realization with scip
    :target: https://mybinder.org/v2/gh/jplab/SFBpresentation/master?filepath=scip/inscribe%20using%20scip.ipynb
 
 
-Polytopal realization with scip
+Packing unfoldings of the cube with integer programming
 ------------------------------
 
 
-   .. image:: https://mybinder.org/badge.svg
-      :target: https://mybinder.org/v2/gh/jplab/SFBpresentation/master?filepath=packing%20unfoldings%20of%20the%20cube.ipynb
+.. image:: https://mybinder.org/badge.svg
+  :target: https://mybinder.org/v2/gh/jplab/SFBpresentation/master?filepath=packing%20unfoldings%20of%20the%20cube.ipynb
